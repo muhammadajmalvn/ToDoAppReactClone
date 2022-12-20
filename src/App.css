@@ -1,0 +1,15 @@
+.main {
+  text-align: center;
+  padding: 5rem;
+  height: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+
+}
+
+.col {
+  margin: 2rem;
+}
